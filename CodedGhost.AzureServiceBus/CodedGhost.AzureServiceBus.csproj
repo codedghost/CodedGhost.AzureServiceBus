@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.10.0" />
+    <PackageReference Include="CodedGhost.Config" Version="1.0.549" />
+    <PackageReference Include="CoreCodedChatbot.Secrets" Version="1.0.733" />
+  </ItemGroup>
+
+</Project>
