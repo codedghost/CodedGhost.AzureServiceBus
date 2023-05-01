@@ -2,7 +2,6 @@
 using System.Threading;
 using System.Threading.Tasks;
 using Azure.Messaging.ServiceBus;
-using Azure.Messaging.ServiceBus.Administration;
 using CodedGhost.AzureServiceBus.Helpers;
 using CoreCodedChatbot.Secrets;
 using Newtonsoft.Json;
