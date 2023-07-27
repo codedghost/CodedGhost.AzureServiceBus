@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.13.1" />
-    <PackageReference Include="CodedGhost.Config" Version="1.0.1065" />
+    <PackageReference Include="CodedGhost.Config" Version="1.0.1182" />
     <PackageReference Include="CoreCodedChatbot.Secrets" Version="1.0.1067" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
